@@ -1,6 +1,6 @@
 [tool.poetry]
 
-name = "app_bertie"
+name = "app"
 version = "0.1.0"
 description = "make practical package"
 authors = ["Your Name <you@example.com>"]
