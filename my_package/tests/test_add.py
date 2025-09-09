@@ -1,4 +1,4 @@
-from app import app
+from app_bertie import app_bertie
 
 def test_add():
-    assert app.add(1,1) == 2
+    assert app_bertie.add(1,1) == 2
